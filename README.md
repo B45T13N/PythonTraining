@@ -1,2 +1,2 @@
 # PythonTraining
-A little project to practice python 
+A little project to practice python
